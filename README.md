@@ -1,2 +1,2 @@
 # Deauthentication-Demo
-Used the scapy library to craft proper deauthentication packets to be sent out to access points on my own internal network. In addition, the os library was used to ensure proper execution and termination of the attack.
+Used the scapy library to craft proper spoofed deauthentication packets to be sent out from access points to the designated target on my own internal network. In addition, the os library was used to ensure proper execution and termination of the attack.
